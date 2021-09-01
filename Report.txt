@@ -1,4 +1,4 @@
 1- Top five performing schools were Charter and 5 bottom
     performing schools were District
-2- Schools with spending greater than 600$/per student had higher than 90% overall passing
+2- Schools with spending greater than 600$/per student had higher than 90% overall passing rate
 3- Students in small and medium size schools had much higher overall passing rate compared to the large size school
